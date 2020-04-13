@@ -10,7 +10,7 @@
 
 @interface ViewController : UIViewController
 
-@property (strong,nonatomic)IBOutletCollection(UITextField)NSArray *fourLines;
+@property (strong, nonatomic) IBOutletCollection(UITextField) NSArray *fourLines;
 
 @end
 

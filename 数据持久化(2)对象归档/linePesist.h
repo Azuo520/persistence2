@@ -8,8 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
-@interface linePesist : NSObject<NSCoding,NSCopying>
+@interface linePesist : NSObject<NSCoding, NSCopying>
 
-@property (nonatomic,copy)NSArray *array;
+@property (nonatomic, copy) NSArray *array;
 
 @end
